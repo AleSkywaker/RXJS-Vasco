@@ -8,7 +8,7 @@
       "schematics": {},
       "root": "",
       "sourceRoot": "src",
-      "prefix": "app",
+      "prefix": "",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
@@ -115,6 +115,7 @@
           }
         }
       }
-    }},
+    }
+  },
   "defaultProject": "reactive-patterns"
 }
